@@ -2,3 +2,7 @@
   flex-direction: row;
   justify-content: space-between;
 }
+
+.navbar-brand {
+  margin: 0;
+}
